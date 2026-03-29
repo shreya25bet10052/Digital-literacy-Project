@@ -1,0 +1,13 @@
+Task 2 Reflection
+
+Platforms Set Up:
+1. GitHub (github.com)
+2. LinkedIn (linkedin.com)
+3. Kaggle (kaggle.com)
+
+GitHub - Used for hosting code and projects. Created a profile README that shows on my profile page with my name, branch, year and learning goals.
+
+LinkedIn - Professional networking platform used by recruiters and companies worldwide. Added my education details at VIT Bhopal University, B.Tech Computer Science, 2025-Present.
+
+Kaggle - Data science and machine learning community where students can practice coding, participate in competitions and access datasets. Useful for CSE students.
+
