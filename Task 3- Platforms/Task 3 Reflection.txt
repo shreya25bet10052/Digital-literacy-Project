@@ -1,0 +1,15 @@
+Task 3 Reflection
+
+Part A – Coding Practice Platform
+
+In Part A, I practiced coding on an online platform. It helped me understand basic coding concepts and improve my logical thinking. I also learned how regular practice can improve problem-solving skills.
+
+ Part B – Google Quiz
+
+In Part B, I created a Google Form quiz. This task helped me learn how to frame proper questions and create quizzes online. I also understood how digital tools can be used to collect responses easily.
+form link- https://forms.gle/XCepBgLhVmi6nkr2A
+
+Screenshots in this folder:
+- hackerrank_challenge.png
+- google_form_screenshot.png
+- google_sheet_screenshot.png
